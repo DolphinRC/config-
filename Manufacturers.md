@@ -141,7 +141,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |VGRC|V-GOOD Technology Co.|http://www.vgoodrc.com/|
 |VIVA|VivaFPV|https://vivafpv.com/|
 |VWIN|Huizhou Xinchuang Technology Co., Ltd||
-|WDIY|WDIY|http://wdiy.net.cn/|
+|WDIY|WDIY|http://wdiyfpv.com/|
 |WIZZ|WIZZ|https://wizz.store/|
 |WRPL|Warp Labs|https://www.warplabs.it/|
 |YUPF|YuPiFc|https://www.yupifc.com/|
@@ -149,4 +149,4 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |ZEEZ|Zeez RC|https://www.zeezrc.com/|
 |ZERO|Zerodrag|https://zerodrag.in/|
 |ZEXM|Shenzhen Zexin Future Technology Co., Ltd|http://zexfpv.com/|
-|DOLP|dolphinRC|https://www.dolphinrc.com/|
+|DOLP|DolphinRC|https://www.dolphinrc.com/|
